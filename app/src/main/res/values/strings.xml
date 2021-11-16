@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login_when_facing_north">Login when facing north</string>
+    <string name="yay_you_are_in">Yay you are in!!</string>
+</resources>
